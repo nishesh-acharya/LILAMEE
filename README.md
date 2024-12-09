@@ -1,6 +1,5 @@
 # LILAMEE
 
-# C2C E-commerce Platform with Project Management System
 
 ## Description
 This project is a feature-rich, responsive Consumer-to-Consumer (C2C) e-commerce platform designed to provide a secure and seamless shopping experience. It incorporates robust user authentication, a dynamic shopping cart, and an integrated project management system with advanced search and filter capabilities for enhanced user experience and productivity.
